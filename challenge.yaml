@@ -1,0 +1,7 @@
+slug: http-smuggle
+title: HTTP Smuggle
+category: networking
+difficulty: hard
+points: 400
+codec: fernet
+repo_url: https://github.com/sparflag/http-smuggle
